@@ -1,0 +1,5 @@
+C:\compile_run\csharp\Ovning4App\Ovning4App\obj\Debug\net6.0\Ovning4App.csproj.AssemblyReference.cache
+C:\compile_run\csharp\Ovning4App\Ovning4App\obj\Debug\net6.0\Ovning4App.GeneratedMSBuildEditorConfig.editorconfig
+C:\compile_run\csharp\Ovning4App\Ovning4App\obj\Debug\net6.0\Ovning4App.AssemblyInfoInputs.cache
+C:\compile_run\csharp\Ovning4App\Ovning4App\obj\Debug\net6.0\Ovning4App.AssemblyInfo.cs
+C:\compile_run\csharp\Ovning4App\Ovning4App\obj\Debug\net6.0\Ovning4App.csproj.CoreCompileInputs.cache
